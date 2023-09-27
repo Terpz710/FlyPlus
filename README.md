@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Terpz710/FlyPlus"><img src="https://github.com/Terpz710/FlyPlus/blob/main/icon.png"></img></a><br>
-    <b>FlyPlus plugin for Pocketmine-MP</b>
+    <b>Compatible with API 5.0.0-5.6.0 Pocketmine-MP</b>
 
 # Description
 
