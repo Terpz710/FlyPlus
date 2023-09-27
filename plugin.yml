@@ -1,0 +1,12 @@
+name: FlyPlus
+version: 1.0.0
+api: [5.0.0]
+main: Terpz710\FlyPlus\Main
+author: Terpz710
+description: A Fly plugin for Pocketmine-MP.
+
+permissions:
+  flyplus.fly:
+    description: Allows players to use the /fly command.
+    default: op
+ 
