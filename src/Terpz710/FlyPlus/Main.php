@@ -1,9 +1,12 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Terpz710\FlyPlus;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
+
 use Terpz710\FlyPlus\Commands\FlyCommand;
 
 class Main extends PluginBase {
